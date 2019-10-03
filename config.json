@@ -1,0 +1,8 @@
+{
+	"template": "Template/CIS_MS_Windows_10_Enterprise_Level_1_v1.6.0.xlsx",
+    "features": {
+    	"9.x": {"Title": "9 Windows Firewall", "Output": "Gherkin/validation/9.x-WindowsFirewall.feature"}
+    },
+    "metrics": "Value",
+    "enable_hardening": false
+}
